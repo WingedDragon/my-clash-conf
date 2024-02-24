@@ -1,1 +1,2 @@
-
+rules:
+ - DOMAIN-SUFFIX,webmod.com,🔰 节点选择
